@@ -4,67 +4,28 @@
     Default markup for typographic elements
 */
 
-h1 {
+h1 {}
 
-}
+h2 {}
 
-h2 {
+h3 {}
 
-}
+h4, h5, h6 {}
 
-h3 {
+p, ol, ul, dl, table, address, figure {}
 
-}
+ul, ol, blockquote {}
 
-h4,
-h5,
-h6 {
+li ul, li ol {}
 
-}
+blockquote {}
 
-p,
-ol,
-ul,
-dl,
-table,
-address,
-figure {
+figcaption {}
 
-}
+hr {}
 
-ul,
-ol,
-blockquote {
+a {}
 
-}
+a:hover, a:focus {}
 
-li ul,
-li ol{
-
-}
-
-blockquote {
-
-}
-
-figcaption {
-
-}
-
-hr {
-
-}
-
-a {
-
-}
-
-a:hover,
-a:focus {
-
-}
-
-a:visited,
-a:active {
-    
-}
+a:visited, a:active {}
